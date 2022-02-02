@@ -14,7 +14,6 @@ const contenidoCliente=document.querySelector("#citas");
 
 let editar;
 
-
 eventListener();
 function eventListener(){
     clienteInput.addEventListener('input',datosCliente);
